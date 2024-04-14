@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613e1c37-5bea-4a6b-9c46-ce178e86a4bb" name="Changes" comment="Day 25: Load the excel files into dataframe">
+    <list default="true" id="613e1c37-5bea-4a6b-9c46-ce178e86a4bb" name="Changes" comment="Day 25: Create a minimal PDF for each Excel file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -16,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2f5KekhGMU80d3p4wtBr770b6xI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\PycharmProjects\App-4\invoices" />
@@ -92,12 +92,29 @@
       <option name="project" value="LOCAL" />
       <updated>1713088627558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 25: Create a minimal PDF for each Excel file">
+      <option name="closed" value="true" />
+      <created>1713089930808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713089930808</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 25: Create a minimal PDF for each Excel file">
+      <option name="closed" value="true" />
+      <created>1713089984675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713089984675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 25: Initial Commit" />
     <MESSAGE value="Day 25: Load the excel files into dataframe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 25: Load the excel files into dataframe" />
+    <MESSAGE value="Day 25: Create a minimal PDF for each Excel file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 25: Create a minimal PDF for each Excel file" />
   </component>
 </project>
